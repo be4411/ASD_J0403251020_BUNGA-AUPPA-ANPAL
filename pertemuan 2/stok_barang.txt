@@ -1,0 +1,10 @@
+BKR001,RotiCokelat,25
+BKR002,RotiKejuSusu,20
+BKR003,RotiAbonSapi,15
+BKR004,RotiSisir,30
+BKR005,DonatGula,40
+BKR006,RotiSrikaya,12
+BKR007,RotiTawarKupas,10
+BKR008,RotiPisangCokelat,18
+BKR009,RotiKopi,22
+BKR010,RotiPandan,15
